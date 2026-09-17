@@ -1,0 +1,12 @@
+
+# Raw match samples fetched for local dev - contains real scores/events (spoilers).
+scripts/sample_data/
+
+# Python bytecode cache - .pyc files embed the full absolute source path,
+# which would leak your local username/folder structure if ever committed.
+__pycache__/
+*.pyc
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db

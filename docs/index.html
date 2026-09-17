@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>URC Replay Picks</title>
+  <meta name="description" content="Which recent URC matches are worth watching in replay — no scores, no results, no spoilers.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>&#127945;</text></svg>">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1>URC Replay Picks</h1>
+    <p class="tagline">Which recent United Rugby Championship matches are worth watching in replay — ranked by how entertaining they were. No scores. No results. No spoilers.</p>
+  </header>
+
+  <main>
+    <div class="controls">
+      <label for="sort-select">Sort by</label>
+      <select id="sort-select">
+        <option value="overall">Most entertaining first</option>
+        <option value="date">Most recent first</option>
+      </select>
+    </div>
+
+    <div id="status" class="status"></div>
+    <ul id="match-list" class="match-list" aria-live="polite"></ul>
+  </main>
+
+  <footer class="site-footer">
+    <p>Scores are computed from five factors — final margin, lead changes, late-game drama, tries vs. kicks, and how unlikely the result was — combined into one 0–100 entertainment score. Full methodology in the project's spec document.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

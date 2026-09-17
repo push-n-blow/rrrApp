@@ -1,0 +1,2267 @@
+{
+  "287855": {
+    "match_id": "287855",
+    "date": "2025-09-26T17:00:00.000Z",
+    "competition": "URC",
+    "home_team": "DHL Stormers",
+    "away_team": "Leinster Rugby",
+    "scores": {
+      "margin": 0.0,
+      "momentum": 0.0,
+      "clutch": 0.0,
+      "scoring_output": 74.3,
+      "upset": 69.3,
+      "overall": 25.3
+    }
+  },
+  "287857": {
+    "match_id": "287857",
+    "date": "2025-09-26T19:05:00.000Z",
+    "competition": "URC",
+    "home_team": "Glasgow Warriors",
+    "away_team": "Hollywoodbets Sharks",
+    "scores": {
+      "margin": 60.9,
+      "momentum": 75.0,
+      "clutch": 24.3,
+      "scoring_output": 100.0,
+      "upset": 37.0,
+      "overall": 58.8
+    }
+  },
+  "287856": {
+    "match_id": "287856",
+    "date": "2025-09-26T19:05:00.000Z",
+    "competition": "URC",
+    "home_team": "Ulster Rugby",
+    "away_team": "Dragons RFC",
+    "scores": {
+      "margin": 39.1,
+      "momentum": 100.0,
+      "clutch": 15.7,
+      "scoring_output": 100.0,
+      "upset": 18.8,
+      "overall": 54.6
+    }
+  },
+  "287858": {
+    "match_id": "287858",
+    "date": "2025-09-27T12:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Vodacom Bulls",
+    "away_team": "Ospreys",
+    "scores": {
+      "margin": 73.9,
+      "momentum": 90.0,
+      "clutch": 29.6,
+      "scoring_output": 100.0,
+      "upset": 17.7,
+      "overall": 62.8
+    }
+  },
+  "287859": {
+    "match_id": "287859",
+    "date": "2025-09-27T14:05:00.000Z",
+    "competition": "URC",
+    "home_team": "Zebre Parma",
+    "away_team": "Edinburgh Rugby",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 85.0,
+      "scoring_output": 94.9,
+      "upset": 62.9,
+      "overall": 89.7
+    }
+  },
+  "287860": {
+    "match_id": "287860",
+    "date": "2025-09-27T16:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Scarlets",
+    "away_team": "Munster Rugby",
+    "scores": {
+      "margin": 73.9,
+      "momentum": 0.0,
+      "clutch": 29.6,
+      "scoring_output": 89.1,
+      "upset": 54.3,
+      "overall": 48.1
+    }
+  },
+  "287862": {
+    "match_id": "287862",
+    "date": "2025-09-27T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Connacht Rugby",
+    "away_team": "Benetton Rugby",
+    "scores": {
+      "margin": 82.6,
+      "momentum": 0.0,
+      "clutch": 33.0,
+      "scoring_output": 92.7,
+      "upset": 52.6,
+      "overall": 51.2
+    }
+  },
+  "287861": {
+    "match_id": "287861",
+    "date": "2025-09-27T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Cardiff Rugby",
+    "away_team": "Fidelity SecureDrive Lions",
+    "scores": {
+      "margin": 73.9,
+      "momentum": 75.0,
+      "clutch": 29.6,
+      "scoring_output": 88.7,
+      "upset": 43.0,
+      "overall": 61.4
+    }
+  },
+  "287863": {
+    "match_id": "287863",
+    "date": "2025-10-03T17:00:00.000Z",
+    "competition": "URC",
+    "home_team": "DHL Stormers",
+    "away_team": "Ospreys",
+    "scores": {
+      "margin": 60.9,
+      "momentum": 90.0,
+      "clutch": 24.3,
+      "scoring_output": 75.0,
+      "upset": 21.1,
+      "overall": 54.4
+    }
+  },
+  "287866": {
+    "match_id": "287866",
+    "date": "2025-10-03T19:05:00.000Z",
+    "competition": "URC",
+    "home_team": "Dragons RFC",
+    "away_team": "Hollywoodbets Sharks",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 40.0,
+      "scoring_output": 82.4,
+      "upset": 22.4,
+      "overall": 69.8
+    }
+  },
+  "287868": {
+    "match_id": "287868",
+    "date": "2025-10-04T16:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Vodacom Bulls",
+    "away_team": "Leinster Rugby",
+    "scores": {
+      "margin": 95.7,
+      "momentum": 100.0,
+      "clutch": 38.3,
+      "scoring_output": 91.4,
+      "upset": 41.8,
+      "overall": 73.2
+    }
+  },
+  "287867": {
+    "match_id": "287867",
+    "date": "2025-10-04T16:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Benetton Rugby",
+    "away_team": "Glasgow Warriors",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 50.0,
+      "clutch": 70.0,
+      "scoring_output": 70.0,
+      "upset": 57.8,
+      "overall": 70.2
+    }
+  },
+  "287869": {
+    "match_id": "287869",
+    "date": "2025-10-04T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Munster Rugby",
+    "away_team": "Cardiff Rugby",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 40.0,
+      "scoring_output": 86.0,
+      "upset": 28.8,
+      "overall": 71.5
+    }
+  },
+  "287870": {
+    "match_id": "287870",
+    "date": "2025-10-05T14:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Zebre Parma",
+    "away_team": "Fidelity SecureDrive Lions",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 94.0,
+      "scoring_output": 85.7,
+      "upset": 50.7,
+      "overall": 88.2
+    }
+  },
+  "287872": {
+    "match_id": "287872",
+    "date": "2025-10-10T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Scarlets",
+    "away_team": "DHL Stormers",
+    "scores": {
+      "margin": 0.0,
+      "momentum": 0.0,
+      "clutch": 0.0,
+      "scoring_output": 91.2,
+      "upset": 40.2,
+      "overall": 24.3
+    }
+  },
+  "287871": {
+    "match_id": "287871",
+    "date": "2025-10-10T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Munster Rugby",
+    "away_team": "Edinburgh Rugby",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 90.0,
+      "clutch": 40.0,
+      "scoring_output": 100.0,
+      "upset": 30.6,
+      "overall": 72.6
+    }
+  },
+  "287873": {
+    "match_id": "287873",
+    "date": "2025-10-11T14:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Benetton Rugby",
+    "away_team": "Fidelity SecureDrive Lions",
+    "scores": {
+      "margin": 17.4,
+      "momentum": 50.0,
+      "clutch": 7.0,
+      "scoring_output": 89.3,
+      "upset": 33.0,
+      "overall": 38.0
+    }
+  },
+  "287874": {
+    "match_id": "287874",
+    "date": "2025-10-11T14:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Ospreys",
+    "away_team": "Zebre Parma",
+    "scores": {
+      "margin": 26.1,
+      "momentum": 0.0,
+      "clutch": 10.4,
+      "scoring_output": 87.5,
+      "upset": 36.2,
+      "overall": 30.8
+    }
+  },
+  "287876": {
+    "match_id": "287876",
+    "date": "2025-10-11T16:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Leinster Rugby",
+    "away_team": "Hollywoodbets Sharks",
+    "scores": {
+      "margin": 17.4,
+      "momentum": 0.0,
+      "clutch": 7.0,
+      "scoring_output": 100.0,
+      "upset": 26.4,
+      "overall": 29.2
+    }
+  },
+  "287875": {
+    "match_id": "287875",
+    "date": "2025-10-11T16:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Glasgow Warriors",
+    "away_team": "Dragons RFC",
+    "scores": {
+      "margin": 0.0,
+      "momentum": 0.0,
+      "clutch": 0.0,
+      "scoring_output": 100.0,
+      "upset": 9.3,
+      "overall": 21.4
+    }
+  },
+  "287878": {
+    "match_id": "287878",
+    "date": "2025-10-11T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Cardiff Rugby",
+    "away_team": "Connacht Rugby",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 50.0,
+      "clutch": 40.0,
+      "scoring_output": 86.4,
+      "upset": 38.4,
+      "overall": 63.0
+    }
+  },
+  "287877": {
+    "match_id": "287877",
+    "date": "2025-10-11T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Ulster Rugby",
+    "away_team": "Vodacom Bulls",
+    "scores": {
+      "margin": 39.1,
+      "momentum": 75.0,
+      "clutch": 15.7,
+      "scoring_output": 100.0,
+      "upset": 69.4,
+      "overall": 57.2
+    }
+  },
+  "287879": {
+    "match_id": "287879",
+    "date": "2025-10-17T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Edinburgh Rugby",
+    "away_team": "Benetton Rugby",
+    "scores": {
+      "margin": 0.0,
+      "momentum": 0.0,
+      "clutch": 0.0,
+      "scoring_output": 100.0,
+      "upset": 43.7,
+      "overall": 26.6
+    }
+  },
+  "287881": {
+    "match_id": "287881",
+    "date": "2025-10-17T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Dragons RFC",
+    "away_team": "Cardiff Rugby",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 90.0,
+      "clutch": 40.0,
+      "scoring_output": 92.7,
+      "upset": 27.8,
+      "overall": 70.7
+    }
+  },
+  "287880": {
+    "match_id": "287880",
+    "date": "2025-10-17T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Connacht Rugby",
+    "away_team": "Vodacom Bulls",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 50.0,
+      "clutch": 40.0,
+      "scoring_output": 78.2,
+      "upset": 33.1,
+      "overall": 60.6
+    }
+  },
+  "287882": {
+    "match_id": "287882",
+    "date": "2025-10-18T11:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Fidelity SecureDrive Lions",
+    "away_team": "Scarlets",
+    "scores": {
+      "margin": 82.6,
+      "momentum": 50.0,
+      "clutch": 33.0,
+      "scoring_output": 66.7,
+      "upset": 45.2,
+      "overall": 54.9
+    }
+  },
+  "287883": {
+    "match_id": "287883",
+    "date": "2025-10-18T14:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Hollywoodbets Sharks",
+    "away_team": "Ulster Rugby",
+    "scores": {
+      "margin": 95.7,
+      "momentum": 0.0,
+      "clutch": 38.3,
+      "scoring_output": 89.7,
+      "upset": 59.8,
+      "overall": 55.6
+    }
+  },
+  "287884": {
+    "match_id": "287884",
+    "date": "2025-10-18T16:15:00.000Z",
+    "competition": "URC",
+    "home_team": "Leinster Rugby",
+    "away_team": "Munster Rugby",
+    "scores": {
+      "margin": 56.5,
+      "momentum": 75.0,
+      "clutch": 22.6,
+      "scoring_output": 93.0,
+      "upset": 69.5,
+      "overall": 61.0
+    }
+  },
+  "287886": {
+    "match_id": "287886",
+    "date": "2025-10-18T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Ospreys",
+    "away_team": "Glasgow Warriors",
+    "scores": {
+      "margin": 21.7,
+      "momentum": 75.0,
+      "clutch": 8.7,
+      "scoring_output": 94.9,
+      "upset": 38.1,
+      "overall": 46.2
+    }
+  },
+  "287885": {
+    "match_id": "287885",
+    "date": "2025-10-18T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Zebre Parma",
+    "away_team": "DHL Stormers",
+    "scores": {
+      "margin": 52.2,
+      "momentum": 90.0,
+      "clutch": 20.9,
+      "scoring_output": 86.4,
+      "upset": 23.5,
+      "overall": 54.5
+    }
+  },
+  "287887": {
+    "match_id": "287887",
+    "date": "2025-10-24T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Glasgow Warriors",
+    "away_team": "Vodacom Bulls",
+    "scores": {
+      "margin": 91.3,
+      "momentum": 90.0,
+      "clutch": 36.5,
+      "scoring_output": 100.0,
+      "upset": 42.1,
+      "overall": 71.7
+    }
+  },
+  "287888": {
+    "match_id": "287888",
+    "date": "2025-10-25T11:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Fidelity SecureDrive Lions",
+    "away_team": "Ulster Rugby",
+    "scores": {
+      "margin": 52.2,
+      "momentum": 100.0,
+      "clutch": 20.9,
+      "scoring_output": 92.5,
+      "upset": 54.6,
+      "overall": 62.3
+    }
+  },
+  "287889": {
+    "match_id": "287889",
+    "date": "2025-10-25T14:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Hollywoodbets Sharks",
+    "away_team": "Scarlets",
+    "scores": {
+      "margin": 87.0,
+      "momentum": 100.0,
+      "clutch": 34.8,
+      "scoring_output": 93.8,
+      "upset": 32.8,
+      "overall": 69.8
+    }
+  },
+  "287892": {
+    "match_id": "287892",
+    "date": "2025-10-25T16:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Dragons RFC",
+    "away_team": "Ospreys",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 50.0,
+      "clutch": 70.0,
+      "scoring_output": 100.0,
+      "upset": 34.1,
+      "overall": 72.6
+    }
+  },
+  "287891": {
+    "match_id": "287891",
+    "date": "2025-10-25T16:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Benetton Rugby",
+    "away_team": "DHL Stormers",
+    "scores": {
+      "margin": 65.2,
+      "momentum": 100.0,
+      "clutch": 26.1,
+      "scoring_output": 55.3,
+      "upset": 35.8,
+      "overall": 56.0
+    }
+  },
+  "287890": {
+    "match_id": "287890",
+    "date": "2025-10-25T16:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Leinster Rugby",
+    "away_team": "Zebre Parma",
+    "scores": {
+      "margin": 26.1,
+      "momentum": 0.0,
+      "clutch": 10.4,
+      "scoring_output": 100.0,
+      "upset": 13.3,
+      "overall": 29.8
+    }
+  },
+  "287894": {
+    "match_id": "287894",
+    "date": "2025-10-25T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Cardiff Rugby",
+    "away_team": "Edinburgh Rugby",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 70.0,
+      "scoring_output": 92.3,
+      "upset": 45.4,
+      "overall": 82.8
+    }
+  },
+  "287893": {
+    "match_id": "287893",
+    "date": "2025-10-25T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Munster Rugby",
+    "away_team": "Connacht Rugby",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 40.0,
+      "scoring_output": 100.0,
+      "upset": 18.7,
+      "overall": 72.8
+    }
+  },
+  "287896": {
+    "match_id": "287896",
+    "date": "2025-11-28T19:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Dragons RFC",
+    "away_team": "Leinster Rugby",
+    "scores": {
+      "margin": 69.6,
+      "momentum": 90.0,
+      "clutch": 27.8,
+      "scoring_output": 91.2,
+      "upset": 14.2,
+      "overall": 59.2
+    }
+  },
+  "287895": {
+    "match_id": "287895",
+    "date": "2025-11-28T19:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Ulster Rugby",
+    "away_team": "Benetton Rugby",
+    "scores": {
+      "margin": 0.0,
+      "momentum": 75.0,
+      "clutch": 0.0,
+      "scoring_output": 89.7,
+      "upset": 35.5,
+      "overall": 38.3
+    }
+  },
+  "287897": {
+    "match_id": "287897",
+    "date": "2025-11-29T12:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Vodacom Bulls",
+    "away_team": "Lions",
+    "scores": {
+      "margin": 87.0,
+      "momentum": 0.0,
+      "clutch": 34.8,
+      "scoring_output": 96.1,
+      "upset": 76.4,
+      "overall": 56.8
+    }
+  },
+  "287898": {
+    "match_id": "287898",
+    "date": "2025-11-29T13:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Zebre Parma",
+    "away_team": "Cardiff Rugby",
+    "scores": {
+      "margin": 65.2,
+      "momentum": 0.0,
+      "clutch": 26.1,
+      "scoring_output": 93.0,
+      "upset": 37.6,
+      "overall": 43.8
+    }
+  },
+  "287900": {
+    "match_id": "287900",
+    "date": "2025-11-29T17:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Edinburgh Rugby",
+    "away_team": "Ospreys",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 40.0,
+      "scoring_output": 100.0,
+      "upset": 27.6,
+      "overall": 74.1
+    }
+  },
+  "287899": {
+    "match_id": "287899",
+    "date": "2025-11-29T17:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Munster Rugby",
+    "away_team": "DHL Stormers",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 75.0,
+      "clutch": 70.0,
+      "scoring_output": 87.5,
+      "upset": 53.3,
+      "overall": 78.0
+    }
+  },
+  "287902": {
+    "match_id": "287902",
+    "date": "2025-11-29T19:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Scarlets",
+    "away_team": "Glasgow Warriors",
+    "scores": {
+      "margin": 30.4,
+      "momentum": 0.0,
+      "clutch": 12.2,
+      "scoring_output": 60.9,
+      "upset": 71.8,
+      "overall": 32.1
+    }
+  },
+  "287901": {
+    "match_id": "287901",
+    "date": "2025-11-29T19:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Connacht Rugby",
+    "away_team": "Hollywoodbets Sharks",
+    "scores": {
+      "margin": 13.0,
+      "momentum": 75.0,
+      "clutch": 5.2,
+      "scoring_output": 85.2,
+      "upset": 50.9,
+      "overall": 43.6
+    }
+  },
+  "287904": {
+    "match_id": "287904",
+    "date": "2025-12-19T19:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Leinster Rugby",
+    "away_team": "Ulster Rugby",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 70.0,
+      "scoring_output": 93.2,
+      "upset": 27.7,
+      "overall": 80.3
+    }
+  },
+  "287903": {
+    "match_id": "287903",
+    "date": "2025-12-19T19:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Cardiff Rugby",
+    "away_team": "Scarlets",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 40.0,
+      "scoring_output": 92.1,
+      "upset": 67.3,
+      "overall": 78.5
+    }
+  },
+  "287905": {
+    "match_id": "287905",
+    "date": "2025-12-20T13:30:00.000Z",
+    "competition": "URC",
+    "home_team": "DHL Stormers",
+    "away_team": "Lions",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 40.0,
+      "scoring_output": 80.3,
+      "upset": 19.8,
+      "overall": 69.0
+    }
+  },
+  "287906": {
+    "match_id": "287906",
+    "date": "2025-12-20T14:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Benetton Rugby",
+    "away_team": "Zebre Parma",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 0.0,
+      "clutch": 40.0,
+      "scoring_output": 66.7,
+      "upset": 26.4,
+      "overall": 47.3
+    }
+  },
+  "287907": {
+    "match_id": "287907",
+    "date": "2025-12-20T15:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Glasgow Warriors",
+    "away_team": "Edinburgh Rugby",
+    "scores": {
+      "margin": 78.3,
+      "momentum": 0.0,
+      "clutch": 31.3,
+      "scoring_output": 100.0,
+      "upset": 32.5,
+      "overall": 48.3
+    }
+  },
+  "287908": {
+    "match_id": "287908",
+    "date": "2025-12-20T16:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Hollywoodbets Sharks",
+    "away_team": "Vodacom Bulls",
+    "scores": {
+      "margin": 91.3,
+      "momentum": 90.0,
+      "clutch": 81.5,
+      "scoring_output": 63.6,
+      "upset": 55.5,
+      "overall": 77.7
+    }
+  },
+  "287909": {
+    "match_id": "287909",
+    "date": "2025-12-20T17:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Ospreys",
+    "away_team": "Munster Rugby",
+    "scores": {
+      "margin": 60.9,
+      "momentum": 50.0,
+      "clutch": 24.3,
+      "scoring_output": 91.7,
+      "upset": 32.4,
+      "overall": 51.5
+    }
+  },
+  "287910": {
+    "match_id": "287910",
+    "date": "2025-12-20T19:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Dragons RFC",
+    "away_team": "Connacht Rugby",
+    "scores": {
+      "margin": 43.5,
+      "momentum": 75.0,
+      "clutch": 17.4,
+      "scoring_output": 91.9,
+      "upset": 71.5,
+      "overall": 57.1
+    }
+  },
+  "287911": {
+    "match_id": "287911",
+    "date": "2025-12-26T15:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Cardiff Rugby",
+    "away_team": "Dragons RFC",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 40.0,
+      "scoring_output": 92.3,
+      "upset": 16.9,
+      "overall": 71.0
+    }
+  },
+  "287912": {
+    "match_id": "287912",
+    "date": "2025-12-26T17:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Scarlets",
+    "away_team": "Ospreys",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 0.0,
+      "clutch": 40.0,
+      "scoring_output": 100.0,
+      "upset": 70.6,
+      "overall": 60.6
+    }
+  },
+  "287913": {
+    "match_id": "287913",
+    "date": "2025-12-27T14:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Zebre Parma",
+    "away_team": "Benetton Rugby",
+    "scores": {
+      "margin": 69.6,
+      "momentum": 75.0,
+      "clutch": 27.8,
+      "scoring_output": 69.0,
+      "upset": 40.4,
+      "overall": 55.7
+    }
+  },
+  "287914": {
+    "match_id": "287914",
+    "date": "2025-12-27T15:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Edinburgh Rugby",
+    "away_team": "Glasgow Warriors",
+    "scores": {
+      "margin": 52.2,
+      "momentum": 50.0,
+      "clutch": 20.9,
+      "scoring_output": 87.5,
+      "upset": 45.9,
+      "overall": 50.0
+    }
+  },
+  "287915": {
+    "match_id": "287915",
+    "date": "2025-12-27T17:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Connacht Rugby",
+    "away_team": "Ulster Rugby",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 90.0,
+      "clutch": 85.0,
+      "scoring_output": 88.2,
+      "upset": 44.6,
+      "overall": 83.6
+    }
+  },
+  "287916": {
+    "match_id": "287916",
+    "date": "2025-12-27T19:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Munster Rugby",
+    "away_team": "Leinster Rugby",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 0.0,
+      "clutch": 40.0,
+      "scoring_output": 57.1,
+      "upset": 57.2,
+      "overall": 50.0
+    }
+  },
+  "287919": {
+    "match_id": "287919",
+    "date": "2026-01-01T15:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Dragons RFC",
+    "away_team": "Scarlets",
+    "scores": {
+      "margin": 30.4,
+      "momentum": 0.0,
+      "clutch": 12.2,
+      "scoring_output": 100.0,
+      "upset": 64.7,
+      "overall": 38.8
+    }
+  },
+  "287920": {
+    "match_id": "287920",
+    "date": "2026-01-01T17:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Ospreys",
+    "away_team": "Cardiff Rugby",
+    "scores": {
+      "margin": 82.6,
+      "momentum": 75.0,
+      "clutch": 33.0,
+      "scoring_output": 100.0,
+      "upset": 51.3,
+      "overall": 67.5
+    }
+  },
+  "287921": {
+    "match_id": "287921",
+    "date": "2026-01-02T19:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Ulster Rugby",
+    "away_team": "Munster Rugby",
+    "scores": {
+      "margin": 21.7,
+      "momentum": 0.0,
+      "clutch": 8.7,
+      "scoring_output": 61.3,
+      "upset": 50.3,
+      "overall": 26.3
+    }
+  },
+  "287922": {
+    "match_id": "287922",
+    "date": "2026-01-03T13:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Hollywoodbets Sharks",
+    "away_team": "Fidelity SecureDrive Lions",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 75.0,
+      "clutch": 70.0,
+      "scoring_output": 86.7,
+      "upset": 57.6,
+      "overall": 78.5
+    }
+  },
+  "287923": {
+    "match_id": "287923",
+    "date": "2026-01-03T16:00:00.000Z",
+    "competition": "URC",
+    "home_team": "DHL Stormers",
+    "away_team": "Vodacom Bulls",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 90.0,
+      "clutch": 70.0,
+      "scoring_output": 71.4,
+      "upset": 22.1,
+      "overall": 73.1
+    }
+  },
+  "287924": {
+    "match_id": "287924",
+    "date": "2026-01-03T17:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Benetton Rugby",
+    "away_team": "Edinburgh Rugby",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 0.0,
+      "clutch": 40.0,
+      "scoring_output": 89.7,
+      "upset": 57.4,
+      "overall": 56.5
+    }
+  },
+  "287925": {
+    "match_id": "287925",
+    "date": "2026-01-03T17:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Leinster Rugby",
+    "away_team": "Connacht Rugby",
+    "scores": {
+      "margin": 0.0,
+      "momentum": 75.0,
+      "clutch": 0.0,
+      "scoring_output": 95.7,
+      "upset": 13.5,
+      "overall": 36.2
+    }
+  },
+  "287926": {
+    "match_id": "287926",
+    "date": "2026-01-03T19:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Glasgow Warriors",
+    "away_team": "Zebre Parma",
+    "scores": {
+      "margin": 0.0,
+      "momentum": 0.0,
+      "clutch": 0.0,
+      "scoring_output": 100.0,
+      "upset": 9.1,
+      "overall": 21.4
+    }
+  },
+  "287929": {
+    "match_id": "287929",
+    "date": "2026-01-23T19:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Munster Rugby",
+    "away_team": "Dragons RFC",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 50.0,
+      "clutch": 70.0,
+      "scoring_output": 78.6,
+      "upset": 14.4,
+      "overall": 65.4
+    }
+  },
+  "287928": {
+    "match_id": "287928",
+    "date": "2026-01-23T19:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Edinburgh Rugby",
+    "away_team": "Vodacom Bulls",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 40.0,
+      "scoring_output": 100.0,
+      "upset": 53.0,
+      "overall": 78.0
+    }
+  },
+  "287927": {
+    "match_id": "287927",
+    "date": "2026-01-23T19:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Ospreys",
+    "away_team": "Fidelity SecureDrive Lions",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 40.0,
+      "scoring_output": 100.0,
+      "upset": 49.2,
+      "overall": 77.4
+    }
+  },
+  "287930": {
+    "match_id": "287930",
+    "date": "2026-01-24T15:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Scarlets",
+    "away_team": "Ulster Rugby",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 85.0,
+      "scoring_output": 81.6,
+      "upset": 63.2,
+      "overall": 87.1
+    }
+  },
+  "287932": {
+    "match_id": "287932",
+    "date": "2026-01-24T17:30:00.000Z",
+    "competition": "URC",
+    "home_team": "DHL Stormers",
+    "away_team": "Hollywoodbets Sharks",
+    "scores": {
+      "margin": 82.6,
+      "momentum": 0.0,
+      "clutch": 33.0,
+      "scoring_output": 87.2,
+      "upset": 83.8,
+      "overall": 54.8
+    }
+  },
+  "287931": {
+    "match_id": "287931",
+    "date": "2026-01-24T17:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Connacht Rugby",
+    "away_team": "Leinster Rugby",
+    "scores": {
+      "margin": 82.6,
+      "momentum": 100.0,
+      "clutch": 33.0,
+      "scoring_output": 73.7,
+      "upset": 23.0,
+      "overall": 63.0
+    }
+  },
+  "287934": {
+    "match_id": "287934",
+    "date": "2026-01-24T19:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Cardiff Rugby",
+    "away_team": "Benetton Rugby",
+    "scores": {
+      "margin": 91.3,
+      "momentum": 0.0,
+      "clutch": 36.5,
+      "scoring_output": 40.0,
+      "upset": 39.0,
+      "overall": 41.2
+    }
+  },
+  "287933": {
+    "match_id": "287933",
+    "date": "2026-01-24T19:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Zebre Parma",
+    "away_team": "Glasgow Warriors",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 0.0,
+      "clutch": 40.0,
+      "scoring_output": 100.0,
+      "upset": 16.6,
+      "overall": 52.5
+    }
+  },
+  "287936": {
+    "match_id": "287936",
+    "date": "2026-01-30T19:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Glasgow Warriors",
+    "away_team": "Munster Rugby",
+    "scores": {
+      "margin": 91.3,
+      "momentum": 0.0,
+      "clutch": 36.5,
+      "scoring_output": 94.3,
+      "upset": 31.5,
+      "overall": 51.0
+    }
+  },
+  "287935": {
+    "match_id": "287935",
+    "date": "2026-01-30T19:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Benetton Rugby",
+    "away_team": "Scarlets",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 70.0,
+      "scoring_output": 77.5,
+      "upset": 38.9,
+      "overall": 78.8
+    }
+  },
+  "287937": {
+    "match_id": "287937",
+    "date": "2026-01-31T12:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Fidelity SecureDrive Lions",
+    "away_team": "Vodacom Bulls",
+    "scores": {
+      "margin": 0.0,
+      "momentum": 0.0,
+      "clutch": 0.0,
+      "scoring_output": 95.7,
+      "upset": 54.2,
+      "overall": 27.3
+    }
+  },
+  "287939": {
+    "match_id": "287939",
+    "date": "2026-01-31T15:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Zebre Parma",
+    "away_team": "Connacht Rugby",
+    "scores": {
+      "margin": 60.9,
+      "momentum": 50.0,
+      "clutch": 24.3,
+      "scoring_output": 87.0,
+      "upset": 45.5,
+      "overall": 52.5
+    }
+  },
+  "287938": {
+    "match_id": "287938",
+    "date": "2026-01-31T15:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Hollywoodbets Sharks",
+    "away_team": "DHL Stormers",
+    "scores": {
+      "margin": 78.3,
+      "momentum": 100.0,
+      "clutch": 31.3,
+      "scoring_output": 75.0,
+      "upset": 58.5,
+      "overall": 67.3
+    }
+  },
+  "287940": {
+    "match_id": "287940",
+    "date": "2026-01-31T17:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Leinster Rugby",
+    "away_team": "Edinburgh Rugby",
+    "scores": {
+      "margin": 95.7,
+      "momentum": 75.0,
+      "clutch": 38.3,
+      "scoring_output": 93.8,
+      "upset": 18.1,
+      "overall": 65.2
+    }
+  },
+  "287942": {
+    "match_id": "287942",
+    "date": "2026-01-31T19:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Ulster Rugby",
+    "away_team": "Cardiff Rugby",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 0.0,
+      "clutch": 40.0,
+      "scoring_output": 100.0,
+      "upset": 33.9,
+      "overall": 55.1
+    }
+  },
+  "287941": {
+    "match_id": "287941",
+    "date": "2026-01-31T19:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Ospreys",
+    "away_team": "Dragons RFC",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 90.0,
+      "clutch": 70.0,
+      "scoring_output": 81.2,
+      "upset": 24.5,
+      "overall": 75.4
+    }
+  },
+  "287918": {
+    "match_id": "287918",
+    "date": "2026-02-21T12:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Fidelity SecureDrive Lions",
+    "away_team": "Hollywoodbets Sharks",
+    "scores": {
+      "margin": 78.3,
+      "momentum": 75.0,
+      "clutch": 31.3,
+      "scoring_output": 83.9,
+      "upset": 53.6,
+      "overall": 63.3
+    }
+  },
+  "287944": {
+    "match_id": "287944",
+    "date": "2026-02-27T19:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Cardiff Rugby",
+    "away_team": "Leinster Rugby",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 0.0,
+      "clutch": 40.0,
+      "scoring_output": 80.0,
+      "upset": 69.1,
+      "overall": 56.4
+    }
+  },
+  "287943": {
+    "match_id": "287943",
+    "date": "2026-02-27T19:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Edinburgh Rugby",
+    "away_team": "Scarlets",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 40.0,
+      "scoring_output": 100.0,
+      "upset": 35.4,
+      "overall": 75.3
+    }
+  },
+  "287945": {
+    "match_id": "287945",
+    "date": "2026-02-28T12:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Fidelity SecureDrive Lions",
+    "away_team": "DHL Stormers",
+    "scores": {
+      "margin": 69.6,
+      "momentum": 0.0,
+      "clutch": 27.8,
+      "scoring_output": 82.4,
+      "upset": 58.5,
+      "overall": 46.1
+    }
+  },
+  "287947": {
+    "match_id": "287947",
+    "date": "2026-02-28T15:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Connacht Rugby",
+    "away_team": "Glasgow Warriors",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 90.0,
+      "clutch": 85.0,
+      "scoring_output": 88.0,
+      "upset": 74.2,
+      "overall": 88.0
+    }
+  },
+  "287946": {
+    "match_id": "287946",
+    "date": "2026-02-28T15:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Vodacom Bulls",
+    "away_team": "Hollywoodbets Sharks",
+    "scores": {
+      "margin": 4.3,
+      "momentum": 0.0,
+      "clutch": 1.7,
+      "scoring_output": 100.0,
+      "upset": 33.7,
+      "overall": 26.4
+    }
+  },
+  "287949": {
+    "match_id": "287949",
+    "date": "2026-02-28T17:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Dragons RFC",
+    "away_team": "Benetton Rugby",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 70.0,
+      "scoring_output": 90.0,
+      "upset": 40.7,
+      "overall": 81.6
+    }
+  },
+  "287948": {
+    "match_id": "287948",
+    "date": "2026-02-28T17:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Munster Rugby",
+    "away_team": "Zebre Parma",
+    "scores": {
+      "margin": 69.6,
+      "momentum": 75.0,
+      "clutch": 27.8,
+      "scoring_output": 100.0,
+      "upset": 11.0,
+      "overall": 57.5
+    }
+  },
+  "287950": {
+    "match_id": "287950",
+    "date": "2026-02-28T19:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Ospreys",
+    "away_team": "Ulster Rugby",
+    "scores": {
+      "margin": 82.6,
+      "momentum": 75.0,
+      "clutch": 33.0,
+      "scoring_output": 100.0,
+      "upset": 54.5,
+      "overall": 68.0
+    }
+  },
+  "287865": {
+    "match_id": "287865",
+    "date": "2026-03-13T19:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Edinburgh Rugby",
+    "away_team": "Ulster Rugby",
+    "scores": {
+      "margin": 39.1,
+      "momentum": 100.0,
+      "clutch": 15.7,
+      "scoring_output": 100.0,
+      "upset": 53.0,
+      "overall": 59.7
+    }
+  },
+  "287864": {
+    "match_id": "287864",
+    "date": "2026-03-13T19:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Connacht Rugby",
+    "away_team": "Scarlets",
+    "scores": {
+      "margin": 56.5,
+      "momentum": 0.0,
+      "clutch": 22.6,
+      "scoring_output": 100.0,
+      "upset": 38.8,
+      "overall": 42.8
+    }
+  },
+  "287917": {
+    "match_id": "287917",
+    "date": "2026-03-14T12:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Vodacom Bulls",
+    "away_team": "DHL Stormers",
+    "scores": {
+      "margin": 73.9,
+      "momentum": 75.0,
+      "clutch": 29.6,
+      "scoring_output": 87.2,
+      "upset": 61.5,
+      "overall": 63.8
+    }
+  },
+  "287951": {
+    "match_id": "287951",
+    "date": "2026-03-20T17:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Vodacom Bulls",
+    "away_team": "Cardiff Rugby",
+    "scores": {
+      "margin": 0.0,
+      "momentum": 75.0,
+      "clutch": 0.0,
+      "scoring_output": 100.0,
+      "upset": 29.6,
+      "overall": 39.4
+    }
+  },
+  "287953": {
+    "match_id": "287953",
+    "date": "2026-03-20T19:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Ulster Rugby",
+    "away_team": "Connacht Rugby",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 75.0,
+      "clutch": 40.0,
+      "scoring_output": 100.0,
+      "upset": 72.7,
+      "overall": 75.9
+    }
+  },
+  "287952": {
+    "match_id": "287952",
+    "date": "2026-03-20T19:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Scarlets",
+    "away_team": "Zebre Parma",
+    "scores": {
+      "margin": 47.8,
+      "momentum": 0.0,
+      "clutch": 19.1,
+      "scoring_output": 100.0,
+      "upset": 22.9,
+      "overall": 37.8
+    }
+  },
+  "287954": {
+    "match_id": "287954",
+    "date": "2026-03-21T12:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Fidelity SecureDrive Lions",
+    "away_team": "Edinburgh Rugby",
+    "scores": {
+      "margin": 0.0,
+      "momentum": 0.0,
+      "clutch": 0.0,
+      "scoring_output": 100.0,
+      "upset": 30.1,
+      "overall": 24.5
+    }
+  },
+  "287956": {
+    "match_id": "287956",
+    "date": "2026-03-21T15:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Benetton Rugby",
+    "away_team": "Ospreys",
+    "scores": {
+      "margin": 78.3,
+      "momentum": 0.0,
+      "clutch": 31.3,
+      "scoring_output": 100.0,
+      "upset": 47.4,
+      "overall": 50.6
+    }
+  },
+  "287955": {
+    "match_id": "287955",
+    "date": "2026-03-21T15:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Hollywoodbets Sharks",
+    "away_team": "Munster Rugby",
+    "scores": {
+      "margin": 0.0,
+      "momentum": 0.0,
+      "clutch": 0.0,
+      "scoring_output": 100.0,
+      "upset": 47.9,
+      "overall": 27.2
+    }
+  },
+  "287957": {
+    "match_id": "287957",
+    "date": "2026-03-21T17:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Glasgow Warriors",
+    "away_team": "Leinster Rugby",
+    "scores": {
+      "margin": 39.1,
+      "momentum": 75.0,
+      "clutch": 15.7,
+      "scoring_output": 100.0,
+      "upset": 47.5,
+      "overall": 53.9
+    }
+  },
+  "287958": {
+    "match_id": "287958",
+    "date": "2026-03-22T13:00:00.000Z",
+    "competition": "URC",
+    "home_team": "DHL Stormers",
+    "away_team": "Dragons RFC",
+    "scores": {
+      "margin": 95.7,
+      "momentum": 0.0,
+      "clutch": 38.3,
+      "scoring_output": 94.0,
+      "upset": 10.2,
+      "overall": 49.0
+    }
+  },
+  "287959": {
+    "match_id": "287959",
+    "date": "2026-03-27T17:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Hollywoodbets Sharks",
+    "away_team": "Cardiff Rugby",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 40.0,
+      "scoring_output": 91.7,
+      "upset": 30.4,
+      "overall": 72.9
+    }
+  },
+  "287960": {
+    "match_id": "287960",
+    "date": "2026-03-27T19:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Glasgow Warriors",
+    "away_team": "Benetton Rugby",
+    "scores": {
+      "margin": 39.1,
+      "momentum": 90.0,
+      "clutch": 15.7,
+      "scoring_output": 92.7,
+      "upset": 18.7,
+      "overall": 51.1
+    }
+  },
+  "287965": {
+    "match_id": "287965",
+    "date": "2026-03-27T19:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Leinster Rugby",
+    "away_team": "Scarlets",
+    "scores": {
+      "margin": 56.5,
+      "momentum": 75.0,
+      "clutch": 22.6,
+      "scoring_output": 100.0,
+      "upset": 15.3,
+      "overall": 54.3
+    }
+  },
+  "287961": {
+    "match_id": "287961",
+    "date": "2026-03-28T12:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Vodacom Bulls",
+    "away_team": "Munster Rugby",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 75.0,
+      "clutch": 40.0,
+      "scoring_output": 90.8,
+      "upset": 31.8,
+      "overall": 67.9
+    }
+  },
+  "287962": {
+    "match_id": "287962",
+    "date": "2026-03-28T14:15:00.000Z",
+    "competition": "URC",
+    "home_team": "Connacht Rugby",
+    "away_team": "Ospreys",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 70.0,
+      "scoring_output": 100.0,
+      "upset": 37.2,
+      "overall": 83.1
+    }
+  },
+  "287963": {
+    "match_id": "287963",
+    "date": "2026-03-28T14:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Fidelity SecureDrive Lions",
+    "away_team": "Dragons RFC",
+    "scores": {
+      "margin": 60.9,
+      "momentum": 100.0,
+      "clutch": 24.3,
+      "scoring_output": 91.2,
+      "upset": 14.5,
+      "overall": 58.7
+    }
+  },
+  "287964": {
+    "match_id": "287964",
+    "date": "2026-03-28T17:00:00.000Z",
+    "competition": "URC",
+    "home_team": "DHL Stormers",
+    "away_team": "Edinburgh Rugby",
+    "scores": {
+      "margin": 47.8,
+      "momentum": 100.0,
+      "clutch": 19.1,
+      "scoring_output": 100.0,
+      "upset": 18.0,
+      "overall": 57.0
+    }
+  },
+  "287966": {
+    "match_id": "287966",
+    "date": "2026-03-28T19:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Zebre Parma",
+    "away_team": "Ulster Rugby",
+    "scores": {
+      "margin": 60.9,
+      "momentum": 75.0,
+      "clutch": 24.3,
+      "scoring_output": 100.0,
+      "upset": 21.7,
+      "overall": 56.5
+    }
+  },
+  "287969": {
+    "match_id": "287969",
+    "date": "2026-04-17T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Dragons RFC",
+    "away_team": "Vodacom Bulls",
+    "scores": {
+      "margin": 0.0,
+      "momentum": 75.0,
+      "clutch": 0.0,
+      "scoring_output": 100.0,
+      "upset": 20.6,
+      "overall": 38.1
+    }
+  },
+  "287968": {
+    "match_id": "287968",
+    "date": "2026-04-17T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Ulster Rugby",
+    "away_team": "Leinster Rugby",
+    "scores": {
+      "margin": 95.7,
+      "momentum": 0.0,
+      "clutch": 38.3,
+      "scoring_output": 94.0,
+      "upset": 43.3,
+      "overall": 54.0
+    }
+  },
+  "287967": {
+    "match_id": "287967",
+    "date": "2026-04-17T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Edinburgh Rugby",
+    "away_team": "Zebre Parma",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 85.0,
+      "scoring_output": 90.2,
+      "upset": 18.6,
+      "overall": 82.1
+    }
+  },
+  "287971": {
+    "match_id": "287971",
+    "date": "2026-04-18T11:45:00.000Z",
+    "competition": "URC",
+    "home_team": "DHL Stormers",
+    "away_team": "Connacht Rugby",
+    "scores": {
+      "margin": 91.3,
+      "momentum": 100.0,
+      "clutch": 66.5,
+      "scoring_output": 94.7,
+      "upset": 76.0,
+      "overall": 85.2
+    }
+  },
+  "287970": {
+    "match_id": "287970",
+    "date": "2026-04-18T14:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Fidelity SecureDrive Lions",
+    "away_team": "Glasgow Warriors",
+    "scores": {
+      "margin": 0.0,
+      "momentum": 0.0,
+      "clutch": 0.0,
+      "scoring_output": 100.0,
+      "upset": 55.7,
+      "overall": 28.4
+    }
+  },
+  "287972": {
+    "match_id": "287972",
+    "date": "2026-04-18T16:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Scarlets",
+    "away_team": "Cardiff Rugby",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 75.0,
+      "clutch": 70.0,
+      "scoring_output": 100.0,
+      "upset": 51.6,
+      "overall": 80.2
+    }
+  },
+  "287974": {
+    "match_id": "287974",
+    "date": "2026-04-18T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Ospreys",
+    "away_team": "Hollywoodbets Sharks",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 0.0,
+      "clutch": 40.0,
+      "scoring_output": 100.0,
+      "upset": 56.6,
+      "overall": 58.5
+    }
+  },
+  "287973": {
+    "match_id": "287973",
+    "date": "2026-04-18T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Benetton Rugby",
+    "away_team": "Munster Rugby",
+    "scores": {
+      "margin": 0.0,
+      "momentum": 0.0,
+      "clutch": 0.0,
+      "scoring_output": 95.0,
+      "upset": 50.2,
+      "overall": 26.5
+    }
+  },
+  "287977": {
+    "match_id": "287977",
+    "date": "2026-04-24T18:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Cardiff Rugby",
+    "away_team": "Ospreys",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 0.0,
+      "clutch": 40.0,
+      "scoring_output": 93.3,
+      "upset": 39.7,
+      "overall": 54.6
+    }
+  },
+  "287975": {
+    "match_id": "287975",
+    "date": "2026-04-24T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Edinburgh Rugby",
+    "away_team": "Hollywoodbets Sharks",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 40.0,
+      "scoring_output": 100.0,
+      "upset": 57.5,
+      "overall": 78.6
+    }
+  },
+  "287976": {
+    "match_id": "287976",
+    "date": "2026-04-24T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Zebre Parma",
+    "away_team": "Dragons RFC",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 70.0,
+      "scoring_output": 83.8,
+      "upset": 50.6,
+      "overall": 81.8
+    }
+  },
+  "287979": {
+    "match_id": "287979",
+    "date": "2026-04-25T11:45:00.000Z",
+    "competition": "URC",
+    "home_team": "DHL Stormers",
+    "away_team": "Glasgow Warriors",
+    "scores": {
+      "margin": 0.0,
+      "momentum": 0.0,
+      "clutch": 0.0,
+      "scoring_output": 90.0,
+      "upset": 43.8,
+      "overall": 24.6
+    }
+  },
+  "287978": {
+    "match_id": "287978",
+    "date": "2026-04-25T14:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Fidelity SecureDrive Lions",
+    "away_team": "Connacht Rugby",
+    "scores": {
+      "margin": 78.3,
+      "momentum": 0.0,
+      "clutch": 31.3,
+      "scoring_output": 100.0,
+      "upset": 32.7,
+      "overall": 48.4
+    }
+  },
+  "287980": {
+    "match_id": "287980",
+    "date": "2026-04-25T16:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Munster Rugby",
+    "away_team": "Ulster Rugby",
+    "scores": {
+      "margin": 13.0,
+      "momentum": 50.0,
+      "clutch": 5.2,
+      "scoring_output": 100.0,
+      "upset": 36.6,
+      "overall": 39.4
+    }
+  },
+  "287982": {
+    "match_id": "287982",
+    "date": "2026-04-25T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Benetton Rugby",
+    "away_team": "Leinster Rugby",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 70.0,
+      "scoring_output": 94.5,
+      "upset": 74.4,
+      "overall": 87.6
+    }
+  },
+  "287981": {
+    "match_id": "287981",
+    "date": "2026-04-25T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Scarlets",
+    "away_team": "Vodacom Bulls",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 85.0,
+      "scoring_output": 65.9,
+      "upset": 28.0,
+      "overall": 78.6
+    }
+  },
+  "287984": {
+    "match_id": "287984",
+    "date": "2026-05-08T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Ulster Rugby",
+    "away_team": "DHL Stormers",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 85.0,
+      "scoring_output": 95.9,
+      "upset": 40.3,
+      "overall": 86.5
+    }
+  },
+  "287983": {
+    "match_id": "287983",
+    "date": "2026-05-08T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Glasgow Warriors",
+    "away_team": "Cardiff Rugby",
+    "scores": {
+      "margin": 30.4,
+      "momentum": 0.0,
+      "clutch": 12.2,
+      "scoring_output": 100.0,
+      "upset": 27.2,
+      "overall": 33.2
+    }
+  },
+  "287985": {
+    "match_id": "287985",
+    "date": "2026-05-09T11:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Vodacom Bulls",
+    "away_team": "Zebre Parma",
+    "scores": {
+      "margin": 0.0,
+      "momentum": 0.0,
+      "clutch": 0.0,
+      "scoring_output": 100.0,
+      "upset": 6.4,
+      "overall": 21.0
+    }
+  },
+  "287986": {
+    "match_id": "287986",
+    "date": "2026-05-09T14:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Hollywoodbets Sharks",
+    "away_team": "Benetton Rugby",
+    "scores": {
+      "margin": 0.0,
+      "momentum": 0.0,
+      "clutch": 0.0,
+      "scoring_output": 100.0,
+      "upset": 30.5,
+      "overall": 24.6
+    }
+  },
+  "287988": {
+    "match_id": "287988",
+    "date": "2026-05-09T16:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Leinster Rugby",
+    "away_team": "Fidelity SecureDrive Lions",
+    "scores": {
+      "margin": 26.1,
+      "momentum": 0.0,
+      "clutch": 10.4,
+      "scoring_output": 100.0,
+      "upset": 36.8,
+      "overall": 33.3
+    }
+  },
+  "287987": {
+    "match_id": "287987",
+    "date": "2026-05-09T16:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Ospreys",
+    "away_team": "Scarlets",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 75.0,
+      "clutch": 70.0,
+      "scoring_output": 80.9,
+      "upset": 30.9,
+      "overall": 73.3
+    }
+  },
+  "287990": {
+    "match_id": "287990",
+    "date": "2026-05-09T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Connacht Rugby",
+    "away_team": "Munster Rugby",
+    "scores": {
+      "margin": 47.8,
+      "momentum": 0.0,
+      "clutch": 19.1,
+      "scoring_output": 100.0,
+      "upset": 47.7,
+      "overall": 41.5
+    }
+  },
+  "287989": {
+    "match_id": "287989",
+    "date": "2026-05-09T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Dragons RFC",
+    "away_team": "Edinburgh Rugby",
+    "scores": {
+      "margin": 91.3,
+      "momentum": 100.0,
+      "clutch": 36.5,
+      "scoring_output": 92.3,
+      "upset": 38.2,
+      "overall": 71.6
+    }
+  },
+  "287993": {
+    "match_id": "287993",
+    "date": "2026-05-15T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Edinburgh Rugby",
+    "away_team": "Connacht Rugby",
+    "scores": {
+      "margin": 39.1,
+      "momentum": 0.0,
+      "clutch": 15.7,
+      "scoring_output": 100.0,
+      "upset": 45.9,
+      "overall": 38.6
+    }
+  },
+  "287992": {
+    "match_id": "287992",
+    "date": "2026-05-15T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Ulster Rugby",
+    "away_team": "Glasgow Warriors",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 70.0,
+      "scoring_output": 100.0,
+      "upset": 44.0,
+      "overall": 84.1
+    }
+  },
+  "287991": {
+    "match_id": "287991",
+    "date": "2026-05-15T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Cardiff Rugby",
+    "away_team": "DHL Stormers",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 75.0,
+      "clutch": 40.0,
+      "scoring_output": 76.3,
+      "upset": 63.4,
+      "overall": 69.8
+    }
+  },
+  "287994": {
+    "match_id": "287994",
+    "date": "2026-05-16T11:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Hollywoodbets Sharks",
+    "away_team": "Zebre Parma",
+    "scores": {
+      "margin": 0.0,
+      "momentum": 90.0,
+      "clutch": 0.0,
+      "scoring_output": 100.0,
+      "upset": 9.6,
+      "overall": 39.4
+    }
+  },
+  "287995": {
+    "match_id": "287995",
+    "date": "2026-05-16T14:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Vodacom Bulls",
+    "away_team": "Benetton Rugby",
+    "scores": {
+      "margin": 17.4,
+      "momentum": 0.0,
+      "clutch": 7.0,
+      "scoring_output": 100.0,
+      "upset": 17.5,
+      "overall": 27.8
+    }
+  },
+  "287997": {
+    "match_id": "287997",
+    "date": "2026-05-16T16:15:00.000Z",
+    "competition": "URC",
+    "home_team": "Scarlets",
+    "away_team": "Dragons RFC",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 85.0,
+      "scoring_output": 86.8,
+      "upset": 29.0,
+      "overall": 82.9
+    }
+  },
+  "287996": {
+    "match_id": "287996",
+    "date": "2026-05-16T16:15:00.000Z",
+    "competition": "URC",
+    "home_team": "Leinster Rugby",
+    "away_team": "Ospreys",
+    "scores": {
+      "margin": 0.0,
+      "momentum": 0.0,
+      "clutch": 0.0,
+      "scoring_output": 100.0,
+      "upset": 17.7,
+      "overall": 22.7
+    }
+  },
+  "287998": {
+    "match_id": "287998",
+    "date": "2026-05-16T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Munster Rugby",
+    "away_team": "Fidelity SecureDrive Lions",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 40.0,
+      "scoring_output": 85.4,
+      "upset": 47.7,
+      "overall": 74.2
+    }
+  },
+  "287999": {
+    "match_id": "287999",
+    "date": "2026-05-29T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Glasgow Warriors",
+    "away_team": "Connacht Rugby",
+    "scores": {
+      "margin": 78.3,
+      "momentum": 75.0,
+      "clutch": 31.3,
+      "scoring_output": 100.0,
+      "upset": 35.6,
+      "overall": 63.8
+    }
+  },
+  "288002": {
+    "match_id": "288002",
+    "date": "2026-05-30T11:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Vodacom Bulls",
+    "away_team": "Munster Rugby",
+    "scores": {
+      "margin": 0.0,
+      "momentum": 0.0,
+      "clutch": 0.0,
+      "scoring_output": 94.9,
+      "upset": 31.6,
+      "overall": 23.7
+    }
+  },
+  "288001": {
+    "match_id": "288001",
+    "date": "2026-05-30T13:30:00.000Z",
+    "competition": "URC",
+    "home_team": "DHL Stormers",
+    "away_team": "Cardiff Rugby",
+    "scores": {
+      "margin": 30.4,
+      "momentum": 75.0,
+      "clutch": 12.2,
+      "scoring_output": 90.8,
+      "upset": 26.9,
+      "overall": 46.3
+    }
+  },
+  "288000": {
+    "match_id": "288000",
+    "date": "2026-05-30T19:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Leinster Rugby",
+    "away_team": "Fidelity SecureDrive Lions",
+    "scores": {
+      "margin": 0.0,
+      "momentum": 0.0,
+      "clutch": 0.0,
+      "scoring_output": 100.0,
+      "upset": 27.1,
+      "overall": 24.1
+    }
+  },
+  "288003": {
+    "match_id": "288003",
+    "date": "2026-06-06T13:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Glasgow Warriors",
+    "away_team": "Vodacom Bulls",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 75.0,
+      "clutch": 40.0,
+      "scoring_output": 92.7,
+      "upset": 56.8,
+      "overall": 72.0
+    }
+  },
+  "288004": {
+    "match_id": "288004",
+    "date": "2026-06-06T16:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Leinster Rugby",
+    "away_team": "DHL Stormers",
+    "scores": {
+      "margin": 91.3,
+      "momentum": 0.0,
+      "clutch": 36.5,
+      "scoring_output": 61.3,
+      "upset": 29.9,
+      "overall": 44.1
+    }
+  },
+  "288005": {
+    "match_id": "288005",
+    "date": "2026-06-19T18:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Leinster Rugby",
+    "away_team": "Vodacom Bulls",
+    "scores": {
+      "margin": 4.3,
+      "momentum": 0.0,
+      "clutch": 1.7,
+      "scoring_output": 93.0,
+      "upset": 33.9,
+      "overall": 25.0
+    }
+  }
+}
