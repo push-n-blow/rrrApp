@@ -198,3 +198,19 @@ Rather than timing one job per kickoff (kickoffs vary across a matchday), a more
 ### Implementation note
 
 The workflow's default `GITHUB_TOKEN` can commit and push back to the repo once "Read and write permissions" is enabled for Actions in repo settings (`contents: write`) — no extra secrets needed for that part. Deploying to Pages via an Actions workflow additionally needs `pages: write` permission, unless deploying via a plain `gh-pages` branch push instead.
+
+## Step 6 — Scheduled updates (implemented, 2026-09)
+
+`.github/workflows/update-scores.yml` runs the pipeline automatically instead of relying on someone to run `run_pipeline.py` by hand.
+
+**Schedule:** two `cron` triggers cover matchday vs. off-matchday cadence — every 30 min from 11:00–23:00 UTC on Fri/Sat/Sun (`7,37 11-23 * * 5,6,0`), and hourly in the same window Mon–Thu (`7 11-23 * * 1,2,3,4`) to catch the occasional rescheduled fixture. Both use `:07`/`:37` rather than `:00`/`:30` per the scheduling caveat above about GitHub delaying jobs queued at the top of the hour. A `workflow_dispatch` trigger is also included so a run can be kicked off manually from the Actions tab — useful for testing, since the cron schedule itself won't fire on demand and the 2026–27 season hadn't produced a completed match as of this writing.
+
+**The statelessness problem:** `scripts/sample_data/` — including `results_ledger.json`, which seeds the Elo ratings — is gitignored on purpose, since it holds raw scores. But every Actions run starts from a brand-new checkout with nothing outside git history, so a naive workflow would rebuild Elo from scratch (no history) on every run, defeating the point of carrying ratings across seasons.
+
+**Fix:** rather than persisting state between runs, each run cheaply *rebuilds* the ledger by re-fetching the historical seasons (`fetch_season_results.py 202301 202401 202501`) before scoring. This is inexpensive because the match-list endpoint returns final scores directly — no per-match detail call needed — so it's 3 lightweight requests, not hundreds, and `init_ledger.py`'s dedup on `(date, home_id, away_id)` makes it idempotent. Once the 2026–27 season (`202601`) finishes, it needs to be added to that season list so future runs keep accumulating history — noted as a comment directly in the workflow file as a reminder.
+
+**Commit identity:** automated commits use the standard `github-actions[bot]` identity (`github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>`), not a personal name/email, consistent with keeping personal identity out of the repo (see the privacy pass that led to the fresh-repo migration). The job only commits `docs/data/scores.json`, and only when it actually changed (`git diff --staged --quiet` guard) — no empty commits.
+
+**Required one-time repo setting:** the workflow declares `permissions: contents: write`, but that can only *narrow* what the repo-level default allows, not widen it. New repos default to read-only Actions permissions, so the push step fails until, in the repo: **Settings → Actions → General → Workflow permissions → "Read and write permissions"** is selected and saved.
+
+**Testing:** since scheduled cron runs won't fire on demand and there's currently no live match to score, the way to validate the workflow end-to-end is the **Actions tab → "Update entertainment scores" → Run workflow** button (`workflow_dispatch`), then check the run log and confirm `docs/data/scores.json` is unchanged (expected — no new matches) with no errors. This substitutes for a live scheduled run until the 2026–27 season produces a completed match (Step 8).

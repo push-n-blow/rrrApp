@@ -1,4 +1,4 @@
-# rugbyApp
+# RRRApp!
 Rugby Recaps Recommendation App
 
 ## intro

@@ -1,0 +1,56 @@
+﻿name: Update entertainment scores
+
+on:
+  schedule:
+    # Matchday polling: every 30 min, 11:00-23:00 UTC, Fri-Sun. Off-peak
+    # minutes (:07/:37, not :00/:30) to avoid GitHub's documented delays
+    # around the top of the hour under load.
+    - cron: '7,37 11-23 * * 5,6,0'
+    # Off-matchday check: hourly, same window, Mon-Thu - covers the
+    # occasional Thursday/Monday reschedule.
+    - cron: '7 11-23 * * 1,2,3,4'
+  workflow_dispatch: {}  # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-scores:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Rebuild historical results ledger
+        # scripts/sample_data/ is gitignored (raw scores/results), so a
+        # fresh runner has no memory of past runs. Rebuilding it from the
+        # historical backfills each time is cheap (the list endpoint
+        # returns scores directly - no per-match detail calls) and this
+        # is idempotent, so it's safe to repeat every run.
+        #
+        # NOTE: once the 2026-27 season (202601) finishes, add it to this
+        # list so future seasons' Elo history keeps accumulating.
+        run: python scripts/fetch_season_results.py 202301 202401 202501
+
+      - name: Run the scoring pipeline
+        run: python scripts/run_pipeline.py
+
+      - name: Commit and push if scores changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/scores.json
+          if git diff --staged --quiet; then
+            echo "No score changes - nothing to commit."
+          else
+            git commit -m "Update entertainment scores"
+            git push
+          fi
