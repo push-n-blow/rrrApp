@@ -38,6 +38,16 @@ body {
   letter-spacing: -0.02em;
 }
 
+.site-logo img {
+  display: block;
+  max-width: 260px;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 14px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+}
+
 .tagline {
   color: var(--text-muted);
   margin: 0;

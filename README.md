@@ -1,5 +1,5 @@
 # RRRApp!
-Rugby Recaps Recommendation App
+Rugby Recap Recommendation App
 
 ## intro
 
