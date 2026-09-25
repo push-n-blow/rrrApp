@@ -2263,5 +2263,50 @@
       "upset": 33.9,
       "overall": 25.0
     }
+  },
+  "292585": {
+    "match_id": "292585",
+    "date": "2026-09-25T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Connacht Rugby",
+    "away_team": "DHL Stormers",
+    "scores": {
+      "margin": 69.6,
+      "momentum": 90.0,
+      "clutch": 27.8,
+      "scoring_output": 86.4,
+      "upset": 53.4,
+      "overall": 64.2
+    }
+  },
+  "292586": {
+    "match_id": "292586",
+    "date": "2026-09-25T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Ulster Rugby",
+    "away_team": "Edinburgh Rugby",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 0.0,
+      "clutch": 40.0,
+      "scoring_output": 85.7,
+      "upset": 66.3,
+      "overall": 57.1
+    }
+  },
+  "292584": {
+    "match_id": "292584",
+    "date": "2026-09-25T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Benetton Rugby",
+    "away_team": "Dragons RFC",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 50.0,
+      "clutch": 70.0,
+      "scoring_output": 100.0,
+      "upset": 24.8,
+      "overall": 71.2
+    }
   }
 }
