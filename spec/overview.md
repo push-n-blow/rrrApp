@@ -1,6 +1,10 @@
 # App Overview
 
-**Repo layout (2026\-09):** this spec lives in `spec/overview.md`. `docs/` is the published site itself (served via GitHub Pages, Settings → Pages → branch `main` / folder `/docs`) — `docs/index.html`, `docs/style.css`, `docs/app.js`, and the pipeline's public output at `docs/data/scores.json`. `scripts/` holds the backend pipeline (`run_pipeline.py` and friends) and its gitignored raw match data (`scripts/sample_data/`). This moved `overview.md` out of `docs/` specifically because Pages only serves what's inside that folder, and a `/docs`\-rooted site can't also hold the spec without publishing it as a page.
+## Repo layout (2026\-09):
+- this spec lives in `spec/overview.md`
+- `docs/` is the published site itself (served via GitHub Pages, Settings → Pages → branch
+`main` / folder `/docs`) — `docs/index.html`, `docs/style.css`, `docs/app.js`, and the pipeline's public output at `docs/data/scores.json`
+- `scripts/` holds the backend pipeline (`run_pipeline.py` and friends) and its gitignored raw match data (`scripts/sample_data/`).
 
 ## App Idea
 
@@ -18,17 +22,13 @@ A survey of spoiler\-free sports platforms, to understand existing scoring appro
 | [ReplayRank](https://replayrank.com/) | NBA only | "Excitement Score" (0\-100) built from lead changes, scoring volatility, clutch possessions, overtime drama, star performances, and end\-game pressure. Notably lets users customize the score themselves via toggles for closeness, volatility, offensive flow, player impact, and late\-game drama; also offers tag\-based filtering (e.g. #DownToTheWire), team pages, and an "Excitement vs Wins" comparison view. One of the more transparent and feature\-rich methodologies found. |
 | [HideScore](https://hidescore.com/) | NBA, NFL, NHL, MLB, MLS, major soccer leagues, golf, cricket, World Cup | "Competitiveness rating" — flags whether a match was close or a blowout, without revealing the result |
 | [SportsRec](https://sportsrec.app/) | NCAA/NBA/WNBA basketball, NFL/college football, soccer competitions, tennis, MLB | 0\-100 score combining "Importance" (pre\-game stakes) \+ "Excitement" (in\-game drama), bucketed into tiers (Must\-Watch 78\+, Interesting 55\+); soccer uses a separate model factoring qualification/relegation odds |
-| [Sports Is Cinema](https://www.barchart.com/story/news/2450042/sportsiscinema-com-launches-ai-powered-spoiler-free-replay-sports-platform-with-dedicated-fifa-world-cup-2026-hub) | Football, cricket, basketball, tennis, baseball, boxing, wrestling, volleyball, motorsport | AI\-powered spoiler masking; no published scoring methodology found; has a "Surprise Me" random\-match feature |
-| [skore.info](https://skore.info/) | Soccer, NBA, MLB, NHL, (American) football | Filters replays "by excitement level"; methodology not published |
-| [Spoiler Free Scores](https://spoilerfreescores.com/) | Unconfirmed — site was in an error/loading state at time of review; may lean more toward video games than sports | Unconfirmed |
-| [NoSpoilerz](http://nospoilerz.com/) | Unconfirmed — page could not be fetched (redirect loop) | Unconfirmed |
-| [DTMTS ("Don't Tell Me The Score")](https://www.dtmts.com/) | NBA, NFL, NHL, MLB | Not published |
+| [skore.info](https://skore.info/) | Soccer, NBA, MLB, NHL, NFL | Filters replays "by excitement level"; methodology not published. Has a short part on alternative  |
+| [Spoiler Free Scores](https://spoilerfreescores.com/) | Soccer, Cricket, American top leagues | I idn't search really well|
 
 ### Rugby\-specific
 
-| App | Notes |
-| --- | --- |
-| [WatchIt Rugby](https://watchit.eloxia.fr/top-matches) | Independent project (creator posted to r/rugbyunion). Appears to be the only rugby\-specific spoiler\-free match\-rating site found. Scoring methodology and competition coverage not yet confirmed — site blocks automated fetching (robots.txt) and the announcement is on Reddit (also blocked); worth reviewing manually. |
+I found only one website that tries to do it -- [WatchIt Rugby](https://watchit.eloxia.fr/).
+It is rated by humans and you need to ligin to vote. Not very popular, not enough votes to get fair results. See this reddit post with explanations from the author -- https://www.reddit.com/r/rugbyunion/comments/1nfegs1/i_built_a_site_to_rate_rugby_matches_so_you_know/
 
 **Takeaway:** No mainstream spoiler\-free platform covers rugby — HideScore, SportsRec, Sports Is Cinema, skore.info, and now ReplayRank all explicitly omit it (ReplayRank is NBA\-only). WatchIt Rugby is the one rugby\-specific precedent found and is worth studying directly. Of the transparent\-methodology apps, HideScore's competitiveness rating, SportsRec's Importance\+Excitement composite, and ReplayRank's customizable multi\-factor "Excitement Score" are the most useful references for designing our own scoring formula — ReplayRank in particular is a good model for how to break a single score into inspectable sub\-factors.
 
