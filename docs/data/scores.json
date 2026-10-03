@@ -2488,5 +2488,20 @@
       "upset": 23.1,
       "overall": 81.0
     }
+  },
+  "292598": {
+    "match_id": "292598",
+    "date": "2026-10-03T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Munster Rugby",
+    "away_team": "Vodacom Bulls",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 40.0,
+      "scoring_output": 93.8,
+      "upset": 54.5,
+      "overall": 76.9
+    }
   }
 }
