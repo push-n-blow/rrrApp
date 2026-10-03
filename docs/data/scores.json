@@ -2443,5 +2443,50 @@
       "upset": 27.8,
       "overall": 56.3
     }
+  },
+  "292596": {
+    "match_id": "292596",
+    "date": "2026-10-03T14:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Dragons RFC",
+    "away_team": "Scarlets",
+    "scores": {
+      "margin": 78.3,
+      "momentum": 100.0,
+      "clutch": 31.3,
+      "scoring_output": 100.0,
+      "upset": 52.5,
+      "overall": 71.4
+    }
+  },
+  "292597": {
+    "match_id": "292597",
+    "date": "2026-10-03T16:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Hollywoodbets Sharks",
+    "away_team": "Leinster Rugby",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 40.0,
+      "scoring_output": 93.5,
+      "upset": 67.3,
+      "overall": 78.8
+    }
+  },
+  "292599": {
+    "match_id": "292599",
+    "date": "2026-10-03T16:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Glasgow Warriors",
+    "away_team": "Ulster Rugby",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 70.0,
+      "scoring_output": 100.0,
+      "upset": 23.1,
+      "overall": 81.0
+    }
   }
 }
