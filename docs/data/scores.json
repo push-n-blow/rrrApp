@@ -2428,5 +2428,20 @@
       "upset": 37.3,
       "overall": 83.1
     }
+  },
+  "292595": {
+    "match_id": "292595",
+    "date": "2026-10-03T11:45:00.000Z",
+    "competition": "URC",
+    "home_team": "10bet Lions",
+    "away_team": "Ospreys",
+    "scores": {
+      "margin": 60.9,
+      "momentum": 75.0,
+      "clutch": 24.3,
+      "scoring_output": 94.4,
+      "upset": 27.8,
+      "overall": 56.3
+    }
   }
 }
