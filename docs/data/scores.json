@@ -2503,5 +2503,35 @@
       "upset": 54.5,
       "overall": 76.9
     }
+  },
+  "292600": {
+    "match_id": "292600",
+    "date": "2026-10-09T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Glasgow Warriors",
+    "away_team": "Connacht Rugby",
+    "scores": {
+      "margin": 56.5,
+      "momentum": 50.0,
+      "clutch": 22.6,
+      "scoring_output": 94.5,
+      "upset": 32.1,
+      "overall": 50.7
+    }
+  },
+  "292601": {
+    "match_id": "292601",
+    "date": "2026-10-09T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Dragons RFC",
+    "away_team": "Ospreys",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 40.0,
+      "scoring_output": 95.5,
+      "upset": 34.9,
+      "overall": 74.3
+    }
   }
 }
