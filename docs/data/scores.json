@@ -2533,5 +2533,50 @@
       "upset": 34.9,
       "overall": 74.3
     }
+  },
+  "292602": {
+    "match_id": "292602",
+    "date": "2026-10-10T11:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Vodacom Bulls",
+    "away_team": "10bet Lions",
+    "scores": {
+      "margin": 0.0,
+      "momentum": 90.0,
+      "clutch": 0.0,
+      "scoring_output": 95.8,
+      "upset": 29.5,
+      "overall": 41.6
+    }
+  },
+  "292603": {
+    "match_id": "292603",
+    "date": "2026-10-10T14:00:00.000Z",
+    "competition": "URC",
+    "home_team": "DHL Stormers",
+    "away_team": "Hollywoodbets Sharks",
+    "scores": {
+      "margin": 56.5,
+      "momentum": 75.0,
+      "clutch": 22.6,
+      "scoring_output": 90.2,
+      "upset": 32.8,
+      "overall": 54.9
+    }
+  },
+  "292604": {
+    "match_id": "292604",
+    "date": "2026-10-10T14:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Zebre Parma",
+    "away_team": "Edinburgh Rugby",
+    "scores": {
+      "margin": 56.5,
+      "momentum": 75.0,
+      "clutch": 22.6,
+      "scoring_output": 92.7,
+      "upset": 28.8,
+      "overall": 54.8
+    }
   }
 }
