@@ -2578,5 +2578,35 @@
       "upset": 28.8,
       "overall": 54.8
     }
+  },
+  "292605": {
+    "match_id": "292605",
+    "date": "2026-10-10T16:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Scarlets",
+    "away_team": "Benetton Rugby",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 100.0,
+      "clutch": 85.0,
+      "scoring_output": 94.3,
+      "upset": 47.2,
+      "overall": 87.2
+    }
+  },
+  "292606": {
+    "match_id": "292606",
+    "date": "2026-10-10T16:30:00.000Z",
+    "competition": "URC",
+    "home_team": "Ulster Rugby",
+    "away_team": "Munster Rugby",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 90.0,
+      "clutch": 70.0,
+      "scoring_output": 100.0,
+      "upset": 49.3,
+      "overall": 82.9
+    }
   }
 }
