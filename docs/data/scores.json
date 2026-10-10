@@ -2608,5 +2608,20 @@
       "upset": 49.3,
       "overall": 82.9
     }
+  },
+  "292607": {
+    "match_id": "292607",
+    "date": "2026-10-10T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Leinster Rugby",
+    "away_team": "Cardiff Rugby",
+    "scores": {
+      "margin": 26.1,
+      "momentum": 0.0,
+      "clutch": 10.4,
+      "scoring_output": 100.0,
+      "upset": 13.5,
+      "overall": 29.8
+    }
   }
 }
