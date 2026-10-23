@@ -2623,5 +2623,50 @@
       "upset": 13.5,
       "overall": 29.8
     }
+  },
+  "292608": {
+    "match_id": "292608",
+    "date": "2026-10-23T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Cardiff Rugby",
+    "away_team": "Hollywoodbets Sharks",
+    "scores": {
+      "margin": 65.2,
+      "momentum": 100.0,
+      "clutch": 26.1,
+      "scoring_output": 100.0,
+      "upset": 49.6,
+      "overall": 67.0
+    }
+  },
+  "292609": {
+    "match_id": "292609",
+    "date": "2026-10-23T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Connacht Rugby",
+    "away_team": "Zebre Parma",
+    "scores": {
+      "margin": 39.1,
+      "momentum": 75.0,
+      "clutch": 15.7,
+      "scoring_output": 100.0,
+      "upset": 8.2,
+      "overall": 48.0
+    }
+  },
+  "292610": {
+    "match_id": "292610",
+    "date": "2026-10-23T18:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Edinburgh Rugby",
+    "away_team": "10bet Lions",
+    "scores": {
+      "margin": 39.1,
+      "momentum": 0.0,
+      "clutch": 15.7,
+      "scoring_output": 92.7,
+      "upset": 58.3,
+      "overall": 39.0
+    }
   }
 }
