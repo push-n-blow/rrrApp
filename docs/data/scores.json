@@ -2668,5 +2668,20 @@
       "upset": 58.3,
       "overall": 39.0
     }
+  },
+  "292611": {
+    "match_id": "292611",
+    "date": "2026-10-24T11:45:00.000Z",
+    "competition": "URC",
+    "home_team": "Vodacom Bulls",
+    "away_team": "Ulster Rugby",
+    "scores": {
+      "margin": 95.7,
+      "momentum": 0.0,
+      "clutch": 38.3,
+      "scoring_output": 90.0,
+      "upset": 21.9,
+      "overall": 50.0
+    }
   }
 }
