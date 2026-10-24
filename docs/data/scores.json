@@ -2713,5 +2713,20 @@
       "upset": 29.1,
       "overall": 77.1
     }
+  },
+  "292614": {
+    "match_id": "292614",
+    "date": "2026-10-24T17:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Leinster Rugby",
+    "away_team": "Munster Rugby",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 50.0,
+      "clutch": 40.0,
+      "scoring_output": 85.7,
+      "upset": 18.6,
+      "overall": 59.9
+    }
   }
 }
