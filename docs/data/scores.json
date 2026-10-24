@@ -2683,5 +2683,35 @@
       "upset": 21.9,
       "overall": 50.0
     }
+  },
+  "292612": {
+    "match_id": "292612",
+    "date": "2026-10-24T14:00:00.000Z",
+    "competition": "URC",
+    "home_team": "DHL Stormers",
+    "away_team": "Scarlets",
+    "scores": {
+      "margin": 78.3,
+      "momentum": 75.0,
+      "clutch": 61.3,
+      "scoring_output": 100.0,
+      "upset": 14.6,
+      "overall": 68.2
+    }
+  },
+  "292613": {
+    "match_id": "292613",
+    "date": "2026-10-24T14:00:00.000Z",
+    "competition": "URC",
+    "home_team": "Benetton Rugby",
+    "away_team": "Glasgow Warriors",
+    "scores": {
+      "margin": 100.0,
+      "momentum": 90.0,
+      "clutch": 70.0,
+      "scoring_output": 86.4,
+      "upset": 29.1,
+      "overall": 77.1
+    }
   }
 }
